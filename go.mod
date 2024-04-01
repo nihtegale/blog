@@ -1,4 +1,4 @@
-module homelab
+module github.com/nihtegale/blog
 
 go 1.22.1
 
